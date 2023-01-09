@@ -1,20 +1,22 @@
-# Comandos en ![Logo Git](https://git-scm.com/images/logo@2x.png)*
+# Comandos en **[git](https://git-scm.com/)**
 
+![Logo git](https://git-scm.com/images/logo@2x.png)
 
 ### Tabla de Contentidos
 **[Version de git](#version-git)**<br>
 **[Ayuda en git](#ayuda-git)**
 
-## Version *git*
+## Version **[git](https://git-scm.com/)**
 
 Utilizaremos el comando para saber con que versión de *git* estamos trabajando
 
-| Original          | Simplicado    |
-| ----------------- |:-------------:|
-| ```git -version```| ```git -v```  |
+| Original          | Simplicado   |
+| ----------------- |:------------:|
+| ```git version``` | ```git -v``` |
 
-## Ayuda *git*
+## Ayuda **[git](https://git-scm.com/)**
 
-| Original          | Simplicado    |
-| ----------------- |:-------------:|
-| ```git -help```   | ```git -h```  |
+| Original       | Simplicado   |
+| -------------- |:------------:|
+| ```git help``` | ```git -h``` |
+
